@@ -5,7 +5,7 @@ function! crystalline#theme#jellybeans#set_theme() abort
         \ 'VisualMode':  [[231, 88],  ['#ffffff', '#870000']],
         \ 'ReplaceMode': [[88,  233], ['#870000', '#262626']],
         \ '':            [[231, 235], ['#ffffff', '#262626']],
-        \ 'Inactive':    [[243, 235], ['#666666', '#262626']],
+        \ 'Inactive':    [[243, 235], ['#d8dee9', '#222222']],
         \ 'Fill':        [[59,  233], ['#4f5b66', '#151515']],
         \ 'Tab':         [[231, 235], ['#ffffff', '#262626']],
         \ 'TabType':     [[231, 88],  ['#ffffff', '#870000']],
